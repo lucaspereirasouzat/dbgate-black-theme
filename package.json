@@ -1,0 +1,27 @@
+{
+  "name": "dbgate-black-theme",
+  "version": "1.0.5",
+  "license": "MIT",
+  "description": "Black theme for DbGate ![icon](https://avatars.githubusercontent.com/u/36778572?v=4?v=4)",
+  "author": "Warmachine13",
+  "repository": "https://github.com/Warmachine13/dbgate-plugin-vscode-theme",
+  "keywords": [
+    "dbgate",
+    "dbgateplugin"
+  ],
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "webpack --config webpack.config",
+    "plugin": "yarn build && yarn pack && dbgate-plugin dbgate-black-theme",
+    "plugout": "dbgate-plugout dbgate-black-theme",
+    "copydist": "yarn build && yarn pack && dbgate-copydist ../dist/dbgate-black-theme",
+    "prepublishOnly": "yarn build"
+  },
+  "devDependencies": {
+    "dbgate-plugin-tools": "^1.0.8",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
