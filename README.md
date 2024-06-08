@@ -1,5 +1,10 @@
 # DBGate Theme README
 
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
+[![NPM version](https://img.shields.io/npm/v/dbgate-black-theme.svg)](https://www.npmjs.com/package/dbgate-black-theme)
+
+
 ## Overview
 
 This README provides instructions and information about the custom theme for DBGate, an open-source database client. This theme enhances the visual appearance of DBGate by providing a consistent and aesthetically pleasing interface, improving the user experience.
