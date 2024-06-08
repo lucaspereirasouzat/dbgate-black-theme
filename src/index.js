@@ -1,9 +1,9 @@
 const theme = {
-  themeName: 'dbgate-plugin-vscode-theme',
+  themeName: 'dbgate-black-theme',
   themeType: 'dark',
-  themeClassName: 'theme-dbgate-plugin-vscode-theme',
+  themeClassName: 'theme-dbgate-black-theme',
   themeCss: `     
-    .theme-dbgate-plugin-vscode-theme {
+    .theme-dbgate-black-theme {
       --theme-font-1: #f8f8f2;
       --theme-font-2: #383942;
       --theme-font-3: #888888;
