@@ -93,6 +93,7 @@ const theme = {
     --dim-large-form-margin: 20px;
   }
     .main-container{
+      background-color: var(--theme-bg-0);
       div.svelte-1msuoss {
         border: 2px solid var(--theme-bg-1);
       }
