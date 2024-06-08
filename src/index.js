@@ -1,9 +1,9 @@
 const theme = {
-  themeName: 'dbgate-black-theme',
+  themeName: 'dbgate-plugin-black-theme',
   themeType: 'dark',
-  themeClassName: 'theme-dbgate-black-theme',
+  themeClassName: 'theme-dbgate-plugin-black-theme',
   themeCss: `     
-    .theme-dbgate-black-theme {
+    .theme-dbgate-plugin-black-theme {
       --theme-font-1: #f8f8f2;
       --theme-font-2: #383942;
       --theme-font-3: #888888;
