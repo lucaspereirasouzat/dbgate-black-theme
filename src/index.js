@@ -99,6 +99,7 @@ const theme = {
     }
     input{
       outline:none;
+      background-color: var(--theme-bg-0);
       border:1px solid var(--theme-bg-inv-3) !important;
     }
     input:focus{    
@@ -114,7 +115,7 @@ const theme = {
     .iconbar .wrapper {
       cursor: pointer;
       height: 45px;
-     
+      background-color: var(--theme-bg-0);
     }
     
     .iconbar .wrapper.selected .mdi,
@@ -123,7 +124,7 @@ const theme = {
       color: var( --theme-font-1);
     }
     .iconbar .mdi{    
-       transition: all 300ms;
+      transition: all 300ms;
       font-size: 1.4rem !important;
       color: var(--theme-bg-selected);
     }
