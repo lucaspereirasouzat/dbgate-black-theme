@@ -75,4 +75,4 @@ This theme is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Contribuitors
 
-[![](https://opencollective.com/dbgate-plugin-vscode-theme/contributors.svg?width=890&button=false)](https://github.com/Warmachine13/dbgate-plugin-vscode-theme/graphs/contributors)
+[![](https://opencollective.com/dbgate-black-theme/contributors.svg?width=890&button=false)](https://github.com/Warmachine13/dbgate-black-theme/graphs/contributors)
