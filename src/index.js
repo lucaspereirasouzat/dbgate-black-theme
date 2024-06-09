@@ -97,18 +97,18 @@ const theme = {
     background-color: var(--theme-bg-0);
   }
 
-    .main-container{
+    .main-container {
       background-color: var(--theme-bg-0);
       div.svelte-1msuoss {
         border: 2px solid var(--theme-bg-1);
       }
     }
-    input{
+    input {
       outline:none;
       background-color: var(--theme-bg-0);
       border:1px solid var(--theme-bg-inv-3) !important;
     }
-    input:focus{    
+    input:focus {    
       border:1px solid var(--theme-bg-selected) !important;
     }
     .buttonLike {
@@ -119,7 +119,7 @@ const theme = {
       opacity: .8 !important;
     }
 
-    .iconbar{
+    .iconbar {
       background-color: var(--theme-bg-0);
     }
 
@@ -127,8 +127,8 @@ const theme = {
       background-color: var(--theme-bg-0);
     }
 
-    .wrapper{
-      background-color: var(--theme-bg-1);
+    .wrapper {
+      background-color: var(--theme-bg-0);
     }
 
     .iconbar .wrapper {
@@ -148,7 +148,7 @@ const theme = {
     }
   
     /*ace_editor*/
-    .ace_editor{
+    .ace_editor {
       background-color: var(--theme-bg-0);
     }
     .ace_gutter-layer{
