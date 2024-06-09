@@ -26,7 +26,7 @@ This README provides instructions and information about the custom theme for DBG
 
 1. **Download the Theme Files**: Clone or download the theme repository from GitHub.
     ```sh
-    git clone https://github.com/Warmachine13/dbgate-black-theme
+    git clone https://github.com/lucaspereirasouzat/dbgate-black-theme
     ```
 
 2. Install dependencies
