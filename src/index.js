@@ -33,9 +33,9 @@ const theme = {
       --theme-font-inv-3: #808080;
       --theme-font-inv-4: #4d4d4d;
   
-      --theme-bg-inv-1: #333333;
+      --theme-bg-inv-1: #000000;
       --theme-bg-inv-2: #3c3c3c;
-      --theme-bg-inv-3: #252526;
+      --theme-bg-inv-3: #000000;
       --theme-bg-inv-4: #707070;
   
       --theme-border: #111111;
@@ -92,6 +92,7 @@ const theme = {
   
     --dim-large-form-margin: 20px;
   }
+
     .main-container{
       background-color: var(--theme-bg-0);
       div.svelte-1msuoss {
@@ -113,10 +114,22 @@ const theme = {
       border-color: transparent !important;
       opacity: .8 !important;
     }
+
+    .iconbar {
+      background-color: var(--theme-bg-0);
+    }
+
+    .titlebar {
+      background-color: var(--theme-bg-0);
+    }
+
+    .wrapper {
+      background-color: var(--theme-bg-1);
+    }
+
     .iconbar .wrapper {
       cursor: pointer;
       height: 45px;
-      background-color: var(--theme-bg-0);
     }
     
     .iconbar .wrapper.selected .mdi,

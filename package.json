@@ -1,13 +1,15 @@
 {
   "name": "dbgate-plugin-black-theme",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "license": "MIT",
   "description": "Black theme for DbGate ![icon](https://avatars.githubusercontent.com/u/36778572?v=4?v=4)",
   "author": "Warmachine13",
   "repository": "https://github.com/Warmachine13/dbgate-black-theme",
   "keywords": [
     "dbgate",
-    "dbgateplugin"
+    "dbgateplugin",
+    "theme",
+    "dark"
   ],
   "files": [
     "dist"
