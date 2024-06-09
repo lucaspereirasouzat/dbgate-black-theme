@@ -93,6 +93,10 @@ const theme = {
     --dim-large-form-margin: 20px;
   }
 
+  .main {
+    background-color: var(--theme-bg-0);
+  }
+
     .main-container{
       background-color: var(--theme-bg-0);
       div.svelte-1msuoss {
@@ -115,15 +119,15 @@ const theme = {
       opacity: .8 !important;
     }
 
-    .iconbar {
+    .iconbar{
       background-color: var(--theme-bg-0);
     }
 
-    .titlebar {
+    .titlebar{
       background-color: var(--theme-bg-0);
     }
 
-    .wrapper {
+    .wrapper{
       background-color: var(--theme-bg-1);
     }
 
@@ -148,7 +152,7 @@ const theme = {
       background-color: var(--theme-bg-0);
     }
     .ace_gutter-layer{
-      background: var(--theme-bg-0);
+      background-color: var(--theme-bg-0);
       border-right: 1px solid var(--theme-bg-1);
     }
     .horizontal-split-handle:hover,
