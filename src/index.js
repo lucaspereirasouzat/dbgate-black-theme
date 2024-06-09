@@ -4,7 +4,7 @@ const theme = {
   themeClassName: 'theme-dbgate-plugin-black-theme',
   themeCss: `     
     .theme-dbgate-plugin-black-theme {
-      --theme-font-1: #f8f8f2;
+      --theme-font-1: #ffffff;
       --theme-font-2: #383942;
       --theme-font-3: #888888;
       --theme-font-4: #5a5a5a;
