@@ -112,11 +112,17 @@ const theme = {
       border:1px solid var(--theme-bg-selected) !important;
     }
     .buttonLike {
+      background-color: var(--theme-bg-0);
+      border-color: var(--theme-bg-2);
       outline:none;
     }
     .buttonLike:hover{
       border-color: transparent !important;
       opacity: .8 !important;
+    }
+
+    .tabs {
+      background-color: var(--theme-bg-0);
     }
 
     .iconbar {
